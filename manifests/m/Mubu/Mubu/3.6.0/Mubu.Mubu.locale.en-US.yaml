@@ -3,21 +3,21 @@
 
 PackageIdentifier: Mubu.Mubu
 PackageVersion: 3.6.0
-PackageLocale: zh-CN
-Publisher: 北京坤豆科技有限公司
+PackageLocale: en-US
+Publisher: mubu.com
 PublisherUrl: https://mubu.com
 PublisherSupportUrl: https://mubu.com/help
 PrivacyUrl: https://mubu.com/privacyPolicy
-Author: 北京坤豆科技有限公司
+Author: Beijing Kundou Technology Co., Ltd.
 PackageName: 幕布
 PackageUrl: https://mubu.com/home
-License: 免费软件
+License: Freeware
 LicenseUrl: https://mubu.com/agreement
 Copyright: ©2017-2020 幕布
 CopyrightUrl: https://mubu.com/agreement
-ShortDescription: 极简大纲笔记，一键生成思维导图。
-Description: 幕布是一款结合了大纲笔记和思维导图的头脑管理工具，帮你用更高效的方式和更清晰的结构来记录笔记、管理任务、制定计划甚至是组织头脑风暴。
+ShortDescription: Minimalist outline notes, one click to generate mind map.
+Description: Mubu is a mind management tool that combines outline notes and mind maps to help you take notes, manage tasks, make plans, and even organize brainstorming in a more efficient way and with a clearer structure.
 Tags:
 - mubu
-ManifestType: defaultLocale
+ManifestType: locale
 ManifestVersion: 1.1.0
